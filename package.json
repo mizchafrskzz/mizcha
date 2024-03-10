@@ -1,0 +1,24 @@
+{
+  "name": "@mizcha/mizcha",
+  "version": "1.0.0",
+  "description": "mizcha tea.xyz",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mizchafrskzz/mizcha.git"
+  },
+  "keywords": [
+    "tea",
+    "npm",
+    "javascript"
+  ],
+  "author": "mizcha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mizchafrskzz/mizcha/issues"
+  },
+  "homepage": "https://github.com/mizchafrskzz/mizcha#readme"
+}
